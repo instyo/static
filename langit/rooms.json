@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/rooms/bohemian.png",
+    "name": "Bohemian"
+  },
+  {
+    "id": 2,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/rooms/coastal.png",
+    "name": "Coastal"
+  },
+  {
+    "id": 3,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/rooms/industrial.png",
+    "name": "Industrial"
+  },
+  {
+    "id": 4,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/rooms/japandi.png",
+    "name": "Japandi"
+  },
+  {
+    "id": 5,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/rooms/minimalist.png",
+    "name": "Minimalist"
+  },
+  {
+    "id": 6,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/rooms/modern.png",
+    "name": " Modern"
+  },
+  {
+    "id": 7,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/rooms/scandinavian.png",
+    "name": "Scandinavian"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/icons/basement.png",
+    "name": "Basement"
+  },
+  {
+    "id": 2,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/icons/bathroom.png",
+    "name": "Bathroom"
+  },
+  {
+    "id": 3,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/icons/bedroom.png",
+    "name": "Bedroom"
+  },
+  {
+    "id": 4,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/icons/dining-room.png",
+    "name": "Dining Room"
+  },
+  {
+    "id": 5,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/icons/kitchen.png",
+    "name": "Kitchen"
+  },
+  {
+    "id": 6,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/icons/living-room.png",
+    "name": "Living Room"
+  },
+  {
+    "id": 7,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/icons/office.png",
+    "name": "Office"
+  },
+  {
+    "id": 8,
+    "icon": "https://raw.githubusercontent.com/instyo/static/refs/heads/main/langit/icons/outdoor-patio.png",
+    "name": "Outdoor Patio"
+  }
+]
